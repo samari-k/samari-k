@@ -2,7 +2,7 @@
 (well, at least online)
 
 🎓 Bachelor's degree in computer science | 
-🇪🇺 🇩🇪 🇧🇪 German, living in Belgium |
+🇪🇺 🇩🇪 🇧🇪 German, living in Belgium | ️⛳️ eJPT(v2) certified |
 📚 eager to learn everything about ethical hacking | 
 🔍 looking for a job in cybersecurity 
 
@@ -15,6 +15,7 @@ samari-k
 
 ╭─samari-k@github ~
 ╰─$ history | tac
+13 get eJPT(v2) certificate
 12 obtain bachelor's degree
 11 TCM OSINT fundamentals course
 10 THM Advent of Cyber 2022
@@ -30,10 +31,12 @@ samari-k
  
 ╭─samari-k@github ~
 ╰─$ cd future && cat goals.txt
- 1 eJPTv2
- 2 get a job in cybersecurity
- 3 PNPT
- 4 OSCP
+ 1 get a job in cybersecurity
+ 2 learn a bunch of new interesting stuff
+ 3 get PNPT certificate
+ 4 learn a bunch of new interesting stuff
+ 5 get OSCP certificate
+ 6 learn a bunch of new interesting stuff
 
 ╭─samari-k@github ~/future
 ╰─$ ./go_for_it

@@ -44,8 +44,3 @@ samari-k
 > this process my need some time to complete ...
 > ...
 ```
-
-##
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samari-k&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samari-k&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

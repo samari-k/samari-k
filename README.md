@@ -1,9 +1,9 @@
 # 📢 Hi, I'm samari!
 (well, at least online)
 
-🏢 Junior Penetration Tester / Security Consultant | 
+🏢 Junior Penetration Tester / Security Consultant | ️⛳️ OSCP and eJPT(v2) certified | 
 🎓 Bachelor's degree in computer science | 
-🇪🇺 🇩🇪 🇧🇪 German, living in Belgium | ️⛳️ eJPT(v2) certified |
+🇪🇺 🇩🇪 🇧🇪 German, living in Belgium |
 📚 eager to learn everything about ethical hacking
 
 ##
@@ -15,6 +15,7 @@ samari-k
 
 ╭─samari-k@github ~
 ╰─$ history | tac
+15 get OSCP certificate
 14 get a job in cybersecurity
 13 get eJPT(v2) certificate
 12 obtain bachelor's degree
@@ -33,10 +34,8 @@ samari-k
 ╭─samari-k@github ~
 ╰─$ cd future && cat goals.txt
  1 learn a bunch of new interesting stuff
- 2 get PNPT certificate
+ 2 learn a bunch of new interesting stuff
  3 learn a bunch of new interesting stuff
- 4 get OSCP certificate
- 5 learn a bunch of new interesting stuff
 
 ╭─samari-k@github ~/future
 ╰─$ ./go_for_it
